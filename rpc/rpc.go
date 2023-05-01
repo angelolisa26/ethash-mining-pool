@@ -13,7 +13,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/techievee/ethash-mining-pool/util"
+	"github.com/angelolisa26/ethash-mining-pool/util"
 )
 
 type RPCClient struct {
